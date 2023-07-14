@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng-1.0.dtd" >
+<suite name="Use test automation">
+    
+    <test name="API regression">
+        <classes>
+            <class name="PostTests"></class>
+        </classes>
+    </test>
+</suite>
